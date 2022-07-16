@@ -12,5 +12,5 @@ function LongWord(letters) {
     }
     return longsWord;
 }
-var a = LongWord(text);
-console.log(a);
+
+console.log(LongWord(text));
